@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+
+}
+#s{
+    display: inline-block;
+    position: relative;
+    right: 500px;
+}
+#عربي{
+    position: relative;
+    right: 500px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 100%;
+    margin: 0;
+}
+.profile-img{
+    border-radius: 100%;
+    width: 200px;
+}
+.computer-img{
+    width: 200px;
+    border-radius: 10%;
+}
+.arduino-img{
+    border-radius: 20%;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 125px;
+}
+.middle-container{
+    background-color: #c6f5ec;
+    padding-top: 10px;
+}
+.bottom-container{
+    background-color:  #abf5e7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.hr-bc{
+    margin-bottom: 0;
+}
+.get-in-touch{
+    margin-top: 0;
+}
+.top-cloud{
+    position:absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottum-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.p-last{
+    margin-bottom: 0;
+}
